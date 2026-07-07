@@ -39,6 +39,10 @@ python3 -m streamlit run translator.py
 - 📋 Add copy button
 - 🌐 Add more languages
 
+## 📸 Application Preview
+
+![Language Translator App Screenshot](Screen%20Shot%202026-07-07%20at%202.05.35%20PM.png)
+
 ## 👩‍💻 Author
 
 Sindhu Utla
